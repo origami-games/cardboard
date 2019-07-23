@@ -8,5 +8,6 @@ tellraw @a [{"text":"Cardboard: ","color":"aqua","clickEvent":{"action":"open_ur
 scoreboard objectives add cardb_data dummy
 
 scoreboard objectives add cardb_cl_right minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add cardb_dam_dealt minecraft.custom:minecraft.damage_dealt
 scoreboard objectives add cardb_death deathCount
 scoreboard objectives add cardb_air air

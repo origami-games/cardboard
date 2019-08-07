@@ -1,0 +1,6 @@
+{
+    "values": [
+        "#cardboard:hook/action_detection/damage_dealt",
+        "cardboard:player/action_detection/damage_dealt"
+    ]
+}

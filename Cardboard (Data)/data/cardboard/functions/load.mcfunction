@@ -1,5 +1,5 @@
 #runs on load
-#called by #cardboard:load
+#called by #cardboard.1:load
 
 #notify load
 tellraw @a [{"text":"Cardboard: ","color":"aqua","clickEvent":{"action":"open_url","value":"https://origami-games.github.io/cardboard"}},{"text":"Loaded","color":"dark_aqua"}]

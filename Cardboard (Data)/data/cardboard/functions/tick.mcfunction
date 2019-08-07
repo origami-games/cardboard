@@ -2,7 +2,7 @@
 #called by #cardboard:tick
 
 #player tick
-execute as @a at @s run function #cardboard:player/tick
+execute as @a at @s run function #cardboard.1:player/tick
 
 #data
 execute store result score day cardb_data run time query day
